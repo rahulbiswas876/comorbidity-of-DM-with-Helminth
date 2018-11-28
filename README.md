@@ -11,7 +11,6 @@ This project is a part of the course CS6024-'Algorithmic Approaches to Computati
 
 **Good Result** We found that accuracy we achieved with just 4 featues are equal to with all 50 featues
 
+**what is recall test?** 
 
-**Unhappy Result** Precision test or Recall - score is just 16-21%
 
-**what is recall test?** - The precise definition of recall is the number of true positives divided by the number of true positives plus the number of false negatives. True positives are data point classified as positive by the model that actually are positive (meaning they are correct), and false negatives are data points the model identifies as negative that actually are positive (incorrect).

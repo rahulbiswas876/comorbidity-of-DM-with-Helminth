@@ -8,3 +8,8 @@ This project is a part of the course CS6024-'Algorithmic Approaches to Computati
 (mg/dl),IL-5 (pg/ml),MCH (pg),MCV (fL),Eosinophils (%) and we have pruned the 50 feature set to a set of 5 features and found out the classification acuracy of double disease cases vs all the rest of the 3 classes and have obtained an accuracy upto
 81.6%.
 ![features barchart](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/images/barchart.png)
+
+**Good Result** We found that accuracy we achieved with just 4 featues are equal to with all 50 featues
+
+
+**Unhappy Result** Precision test or Recall - score is just 16-21%

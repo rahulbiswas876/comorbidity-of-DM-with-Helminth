@@ -19,5 +19,5 @@ This project is a part of the course CS6024-'Algorithmic Approaches to Computati
 ![precsion score](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/images/precision.png)
 
 **Recall and Precision score**
-We got recall score around 0.29 to 0.35
+We got recall score around 0.29 to 0.35 <br/>
 precision score 0.71 to 0.75

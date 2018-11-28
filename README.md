@@ -7,4 +7,4 @@ This project is a part of the course CS6024-'Algorithmic Approaches to Computati
 **Result:** We found a subset of features important for identifying the double disease cases exclusively.The subset of features are Urea
 (mg/dl),IL-5 (pg/ml),MCH (pg),MCV (fL),Eosinophils (%) and we have pruned the 50 feature set to a set of 5 features and found out the classification acuracy of double disease cases vs all the rest of the 3 classes and have obtained an accuracy upto
 81.6%.
-![features barchart](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/barchart.png)
+![features barchart](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/images/barchart.png)

@@ -11,6 +11,13 @@ This project is a part of the course CS6024-'Algorithmic Approaches to Computati
 
 **Good Result** We found that accuracy we achieved with just 4 featues are equal to with all 50 featues
 
-**what is recall test?** 
+**what is recall score?** 
 
+![recall def](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/images/recall.png)
 
+**what is precision score?**
+![precsion score](https://github.com/rahulbiswas876/comorbidity-of-DM-with-Helminth/blob/master/images/precision.png)
+
+**Recall and Precision score**
+We got recall score around 0.29 to 0.35
+precision score 0.71 to 0.75
